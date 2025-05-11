@@ -26,3 +26,4 @@ nltk>=3.8
 torch>=2.0
 flask_sqlalchemy
 spacy
+gunicorn==20.1.0
